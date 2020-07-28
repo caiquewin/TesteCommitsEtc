@@ -15,6 +15,7 @@ namespace Exercicio_EstruturaRepetitivaFOR_ProfNelio_PT06
                     Console.WriteLine(i);
                 }
             }
+            Console.WriteLine("Bom dia");
         }
     }
 }
