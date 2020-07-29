@@ -19,6 +19,7 @@ namespace Exercicio_EstruturaRepetitivaFOR_ProfNelio_PT06
             string teste = Console.ReadLine();
             Console.WriteLine("se vc esta "+teste+" eu tambem estou");
             Console.WriteLine("tenha um bom dia");
+            Console.WriteLine("thcua");
         }
     }
 }
